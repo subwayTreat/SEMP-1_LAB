@@ -1,0 +1,55 @@
+1. to find profit or loss given the cost price and selling price.
+
+2. to check the given integer is prime or not.
+
+3. to check the given number is odd or even.
+
+4. to find the area and circumference of a circle.
+
+5. to take subject marks as input from user and display the result (I-division, II-division, III-division, fail)
+
+6. simple calculator for basic arithmetic operations. (take operand-1, operator and operand-2 from user as input)
+
+7. find the largest of 3 numbers. 
+
+8) to display the result a student has scored (same as 5th program) using case...esac statement.
+
+9) to check if a file exists if yes then write "hello world" in the file if no then create the file and then write "hello world" line.
+
+10) make a directory after checking of its existence.
+
+11) to read the contents of a file and display it line by line in command prompt. (Hint: use read command to read the file contents.)
+
+12) to check and display 10 leap years from year 2000.
+
+13) to check the given string is palindrome or not.
+
+14) to find the factorial of a number.
+
+15) to check two file contents are same. ( Hint: use cmp or diff  command )
+
+16) to print a pyramid of numbers.
+
+17) to write the following contents in a file:-
+
+cat
+
+dog
+
+bear
+
+hello
+
+elephant
+
+hello
+
+tiger
+
+hello
+
+horse
+
+and then delete the lines containing the word "hello" and display the file. (Hint: use grep command)
+
+
