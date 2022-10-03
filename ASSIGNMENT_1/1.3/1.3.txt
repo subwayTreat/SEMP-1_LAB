@@ -1,0 +1,12 @@
+find . -type f -ctime -20 -ls | sort -n -r -k7 | head  -10
+
+find .  To find in entire directory
+To include only files in the search results, we use the “-type” parameter followed by the value “f”:
+ctime  Creation time
+-20     before 20 days
+-ls      to show all the details
+Sort   to sort the files
+-n -r   to sort it in descending order(Reverse)
+-k7    sort with respect to 7th column
+Head from beginning 
+-10     10 files
