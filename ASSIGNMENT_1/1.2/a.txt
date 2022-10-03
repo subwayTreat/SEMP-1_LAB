@@ -1,1 +1,7 @@
-a
+00:00:44:" Hey what are you doing".|Today's date: , Sep13
+00:01:01:How was your day
+00:01:06:Did you have your breakfast.
+00:01:10:Please have some rest today.
+00:01:13:Thank you...
+00:01:15:Have a nice day.
+00:01:19:Bye...
